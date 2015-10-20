@@ -2,7 +2,7 @@
 Changelog for package innok_heros_simulation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2015-10-20)
+------------------
 * initial commit
 * Contributors: Sabrina Heerklotz
